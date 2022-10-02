@@ -7,4 +7,4 @@ PORTFOLIO WEBSITE FOR SETH DAVID GYIMAH
 * [google map](https://www.embed-map.com/)
 
 
-live at: 
+live at: https://sdg-apps-myportfoliosite.netlify.app/
